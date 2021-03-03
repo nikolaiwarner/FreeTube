@@ -224,6 +224,7 @@ function createWindow (useProxy = false, proxyUrl = '') {
       /* eslint-disable-next-line */
       : `${__dirname}/_icons/iconColor.png`,
     autoHideMenuBar: true,
+    titleBarStyle: 'hiddenInset',
     // useContentSize: true,
     webPreferences: {
       nodeIntegration: true,

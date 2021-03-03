@@ -70,7 +70,6 @@
           {{ $t("History.History") }}
         </p>
       </div>
-      <hr>
       <div
         class="navOption mobileShow"
         @click="navigate('settings')"
@@ -95,7 +94,6 @@
           {{ $t("About.About") }}
         </p>
       </div>
-      <hr>
       <div
         v-if="!hideActiveSubscriptions"
       >

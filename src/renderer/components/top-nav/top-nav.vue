@@ -24,14 +24,6 @@
         icon="search"
         @click="toggleSearchContainer"
       />
-      <div class="logo">
-        <div
-          class="logoIcon"
-        />
-        <div
-          class="logoText"
-        />
-      </div>
     </div>
     <div class="middle">
       <div class="searchContainer">
