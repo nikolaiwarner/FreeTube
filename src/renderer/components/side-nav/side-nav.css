@@ -15,6 +15,16 @@
   transition-timing-function: ease-in-out;
 }
 
+.sideNav {
+  opacity: 0.3;
+  transition: 0.3s all;
+}
+
+.sideNav:hover {
+  opacity: 1;
+}
+
+
 .inner {
   height: 100%;
   width: 200px;
