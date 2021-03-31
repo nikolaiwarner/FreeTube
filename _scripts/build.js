@@ -71,7 +71,7 @@ const config = {
   },
   mac: {
     category: 'public.app-category.utilities',
-    icon: '_icons/iconMac.icns',
+    icon: '_icons/iconMac.nick.icns',
     target: ['dmg', 'zip'],
     type: 'distribution',
     extendInfo: {
